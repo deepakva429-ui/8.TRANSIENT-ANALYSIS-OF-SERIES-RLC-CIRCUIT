@@ -1,6 +1,6 @@
 # 8.TRANSIENT-ANALYSIS-OF-SERIES-RLC-CIRCUIT
 
-**AIM:**
+**AIM:**.
 
 To determine transient response of a series RLC circuit using Multisim Simulator.
 
